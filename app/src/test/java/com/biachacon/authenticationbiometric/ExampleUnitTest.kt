@@ -1,4 +1,4 @@
-package com.biachacon.AuthenticationKeystore
+package com.biachacon.authenticationbiometric
 
 import org.junit.Test
 

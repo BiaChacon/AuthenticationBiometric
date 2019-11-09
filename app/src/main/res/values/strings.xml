@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">AuthenticationKeystore</string>
+    <string name="app_name">Authentication Biometric</string>
+    <string name="login">Login</string>
 </resources>
